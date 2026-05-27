@@ -7,7 +7,7 @@ int main()
 
     for (int i = 0; i < arr.size(); i++)
     {
-        int leaders = true;
+        bool leaders = true;
         for (int j = i; j < arr.size(); j++)
         {
             if (arr[i] < arr[j])
