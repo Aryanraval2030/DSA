@@ -1,0 +1,16 @@
+1
+1 2
+1 2 3
+1 2 3 4
+
+#include <iostrem>
+#include <vector>
+
+using namespace std;
+int main(){
+
+    
+
+    cout << endl;
+    return 0;
+}
