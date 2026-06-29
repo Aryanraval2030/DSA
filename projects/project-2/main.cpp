@@ -124,6 +124,12 @@ int main()
             break;
         }
 
+        case 5:
+        {
+            cout << "Thank You!" << endl;
+            break;
+        }
+
         default:
         {
             cout << "Invalid Choice." << endl;
