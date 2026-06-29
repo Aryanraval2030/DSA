@@ -130,7 +130,7 @@ int main()
         }
         }
 
-    } while (choice != 4);
+    } while (choice != 5);
 
     return 0;
 }
